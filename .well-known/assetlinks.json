@@ -1,1 +1,12 @@
-
+[
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.codeid.miniapptester",
+    "sha256_cert_fingerprints":
+    ["53:3C:30:D7:78:32:08:6F:B7:E8:0B:34:2D:35:FF:69:E8:9C:CD:DC:DD:51:5E:F0:77:B9:30:AD:1F:7D:2E:68",
+    "CE:64:43:9A:34:09:D7:D9:53:37:54:F7:1E:46:82:66:6F:44:AF:3A:76:57:35:0A:1C:DD:72:5C:71:CE:69:F3"]
+    }
+  }
+]
